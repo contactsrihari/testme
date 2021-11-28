@@ -2,3 +2,5 @@ implementation details for project
 changes for v1.1
 new changes added in feature /001 branch to merge them later
 changes pushed directly in develop
+readme1.1 from develop
+readme1.2 from develop
