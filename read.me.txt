@@ -1,1 +1,2 @@
 implementation details for project
+changes for v1.1
