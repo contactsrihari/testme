@@ -1,1 +1,2 @@
 this is a playpen project for git
+notes 1.1 from feature/001
