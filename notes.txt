@@ -5,3 +5,5 @@ notes 1.3 from feature/001
 notes 1.4 from feature/001
 notes 1.5 from feature/001
 notes 1.6 from feature/001
+notes 1.7 from feature/001
+notes 1.8 from feature/001
